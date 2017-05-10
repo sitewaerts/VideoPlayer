@@ -1,0 +1,33 @@
+{
+  "name": "com.dawsonloudon.videoplayer",
+  "version": "1.0.0",
+  "description": "Play video with native support for androi",
+  "license": "MIT",
+  "author": "Dawson Loudon",
+  "bugs": {
+    "url": "https://github.com/dawsonloudon/VideoPlayer/issues"
+  },
+  "cordova": {
+    "id": "com.dawsonloudon.videoplayer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawsonloudon/VideoPlayer.git"
+  },
+  "homepage": "https://github.com/dawsonloudon/VideoPlayer#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "cordova-android"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "1.0.0": {
+        "cordova": ">=3.2.0"
+      }
+    }
+  }
+}
